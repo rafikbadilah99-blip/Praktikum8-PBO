@@ -45,9 +45,9 @@ src/
 
 ## 💻 Penjelasan Kode & Contoh Output
 
-1. Polimorfisme (Hewan)
+**1. Polimorfisme (Hewan)**
 Mendemonstrasikan pemanggilan method bersuara() pada array bertipe superclass (Hewan[]) yang diisi oleh berbagai elemen subclass (Kucing dan Anjing) melalui teknik upcasting.
-File terkait: Hewan.java, Kucing.java, Anjing.java, PoliTester.java
+*File terkait: Hewan.java, Kucing.java, Anjing.java, PoliTester.java*
 ```text
 📤 Output PoliTester:
 Hewan ini mengeluarkan suara yang tidak spesifik.
@@ -55,18 +55,18 @@ Kucing: Meow meow!
 Anjing: Guk guk!
 ```
 
-2. Abstract Class (Bangun Datar)
+**2. Abstract Class (Bangun Datar)**
 Mendemonstrasikan penerapan abstract class BangunDatar yang memiliki atribut bersama (warna), concrete method (cetakWarna()), dan abstract method (hitungLuas()) yang diturunkan ke kelas Lingkaran.
-File terkait: BangunDatar.java, Lingkaran.java, TesBangunDatar.java
+*File terkait: BangunDatar.java, Lingkaran.java, TesBangunDatar.java*
 ```text
 📤 Output TesBangunDatar:
 Warna bangun ini adalah: Merah
 Luas lingkaran: 78.53981633974483
 ```
 
-3. Multiple Interface (Smartphone)
+**3. Multiple Interface (Smartphone)**
 Mendemonstrasikan multiple inheritance di Java. Kelas Smartphone mengimplementasikan dua interface sekaligus, yaitu AlatElektronik dan Kamera.
-File terkait: AlatElektronik.java, Kamera.java, Smartphone.java, TesSmartphone.java
+*File terkait: AlatElektronik.java, Kamera.java, Smartphone.java, TesSmartphone.java*
 ```text
 📤 Output TesSmartphone:
 Samsung menyala. Booting OS...
