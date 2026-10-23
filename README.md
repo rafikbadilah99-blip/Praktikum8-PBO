@@ -66,10 +66,19 @@ Luas lingkaran: 78.53981633974483
 
 **3. Multiple Interface (Smartphone)**
 Mendemonstrasikan multiple inheritance di Java. Kelas Smartphone mengimplementasikan dua interface sekaligus, yaitu AlatElektronik dan Kamera.
-*File terkait: AlatElektronik.java, Kamera.java, Smartphone.java, TesSmartphone.java*
 ```text
+*File terkait: AlatElektronik.java, Kamera.java, Smartphone.java, TesSmartphone.java*
 📤 Output TesSmartphone:
 Samsung menyala. Booting OS...
 Cekrek! Foto berhasil disimpan di galeri Samsung.
 Samsung dimatikan. Goodbye.
 ```
+---
+
+## 🚀 Cara Menjalankan Kode
+
+Melalui Terminal / Command Line
+1. Clone repositori ini:
+git clone
+cd **praktikum8-pbo**
+2. 
