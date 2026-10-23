@@ -47,7 +47,8 @@ src/
 
 **1. Polimorfisme (Hewan)**
 Mendemonstrasikan pemanggilan method bersuara() pada array bertipe superclass (Hewan[]) yang diisi oleh berbagai elemen subclass (Kucing dan Anjing) melalui teknik upcasting.
-*File terkait: Hewan.java, Kucing.java, Anjing.java, PoliTester.java*
+
+File terkait: Hewan.java, Kucing.java, Anjing.java, PoliTester.java
 ```text
 📤 Output PoliTester:
 Hewan ini mengeluarkan suara yang tidak spesifik.
