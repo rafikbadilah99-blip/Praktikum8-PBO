@@ -1,8 +1,5 @@
 # 📝 Modul Praktikum 8 - Pemrograman Berbasis Objek (Java)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Polymorphism%20%26%20Abstraction-blue?style=for-the-badge)
-
 Repositori ini berisi implementasi kode untuk **Praktikum 8** dalam mata kuliah *Pemrograman Berbasis Objek (PBO)*. Praktikum ini berfokus pada konsep dasar OOP tingkat lanjut di bahasa pemrograman Java, meliputi **Polimorfisme (Upcasting & Overriding)**, **Abstract Class**, dan **Multiple Interface**.
 
 ---
@@ -43,3 +40,7 @@ src/
         ├── Kamera.java
         ├── Smartphone.java
         └── TesSmartphone.java
+```
+---
+
+## 💻 Penjelasan Kode & Contoh Output
