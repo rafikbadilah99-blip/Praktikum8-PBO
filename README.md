@@ -48,7 +48,7 @@ src/
 **1. Polimorfisme (Hewan)**
 Mendemonstrasikan pemanggilan method bersuara() pada array bertipe superclass (Hewan[]) yang diisi oleh berbagai elemen subclass (Kucing dan Anjing) melalui teknik upcasting.
 
-File terkait: Hewan.java, Kucing.java, Anjing.java, PoliTester.java
+*File terkait: Hewan.java, Kucing.java, Anjing.java, PoliTester.java*
 ```text
 📤 Output PoliTester:
 Hewan ini mengeluarkan suara yang tidak spesifik.
@@ -58,6 +58,7 @@ Anjing: Guk guk!
 
 **2. Abstract Class (Bangun Datar)**
 Mendemonstrasikan penerapan abstract class BangunDatar yang memiliki atribut bersama (warna), concrete method (cetakWarna()), dan abstract method (hitungLuas()) yang diturunkan ke kelas Lingkaran.
+
 *File terkait: BangunDatar.java, Lingkaran.java, TesBangunDatar.java*
 ```text
 📤 Output TesBangunDatar:
@@ -67,8 +68,9 @@ Luas lingkaran: 78.53981633974483
 
 **3. Multiple Interface (Smartphone)**
 Mendemonstrasikan multiple inheritance di Java. Kelas Smartphone mengimplementasikan dua interface sekaligus, yaitu AlatElektronik dan Kamera.
-```text
+
 *File terkait: AlatElektronik.java, Kamera.java, Smartphone.java, TesSmartphone.java*
+```text
 📤 Output TesSmartphone:
 Samsung menyala. Booting OS...
 Cekrek! Foto berhasil disimpan di galeri Samsung.
@@ -82,4 +84,12 @@ Melalui Terminal / Command Line
 1. Clone repositori ini:
 git clone
 cd **praktikum8-pbo**
-2. 
+2. Kompilasi semua berkas .java:
+**javac -d bin src/com/praktikum8/*.java**
+3. Jalankan masing-masing kelas penguji (main class):
+- Pengujian Polimorfisme:
+**java -cp bin com.praktikum8.PoliTester**
+- Pengujian Abstract Class:
+**java -cp bin com.praktikum8.TesBangunDatar**
+- Pengujian Interface:
+**java -cp bin com.praktikum8.TesSmartphone**
