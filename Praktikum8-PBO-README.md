@@ -1,4 +1,4 @@
-# 📝 Modul Praktikum 8 - Pemrograman Berbasis Objek (Java)
+# 📝 Modul Praktikum 8 - Pemrograman Berbasis Objek
 
 Repositori ini berisi implementasi kode untuk **Praktikum 8** dalam mata kuliah **Pemrograman Berbasis Objek (PBO)**. Praktikum ini berfokus pada konsep dasar OOP tingkat lanjut dalam bahasa pemrograman Java, meliputi **Polimorfisme (Upcasting & Overriding)**, **Abstract Class**, dan **Multiple Interface**.
 
@@ -164,4 +164,4 @@ java -cp bin com.praktikum8.TesSmartphone
 
 ---
 
-*Praktikum 8 — Pemrograman Berbasis Objek (PBO) | Java*
+*Praktikum 8 — Pemrograman Berbasis Objek (PBO)*
