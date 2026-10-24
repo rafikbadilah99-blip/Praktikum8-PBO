@@ -82,7 +82,7 @@ Samsung dimatikan. Goodbye.
 
 Melalui Terminal / Command Line
 1. Clone repositori ini:
-- git clone
+- git clone https://github.com/rafikbadilah99-blip/Praktikum8-PBO.git
 - cd **praktikum8-pbo**
 2. Kompilasi semua berkas .java:
 **javac -d bin src/com/praktikum8/*.java**
@@ -96,7 +96,7 @@ Melalui Terminal / Command Line
 
 ---
 
-## 👤 Penulis
-* **Nama**: [Rafik Badilah]
-* **NIM**: [L0325009]
-* **Kelas**: [Semester 3(A)]
+## 👤 Author
+* **Nama**: Rafik Badilah
+* **NIM**: L0325009
+* **Kelas**: Semester 3(A)
