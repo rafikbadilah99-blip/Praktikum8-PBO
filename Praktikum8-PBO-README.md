@@ -82,8 +82,8 @@ Samsung dimatikan. Goodbye.
 
 Melalui Terminal / Command Line
 1. Clone repositori ini:
-git clone
-cd **praktikum8-pbo**
+- git clone
+- cd **praktikum8-pbo**
 2. Kompilasi semua berkas .java:
 **javac -d bin src/com/praktikum8/*.java**
 3. Jalankan masing-masing kelas penguji (main class):
@@ -93,3 +93,10 @@ cd **praktikum8-pbo**
 **java -cp bin com.praktikum8.TesBangunDatar**
 - Pengujian Interface:
 **java -cp bin com.praktikum8.TesSmartphone**
+
+---
+
+## 👤 Penulis
+* **Nama**: [Rafik Badilah]
+* **NIM**: [L0325009]
+* **Kelas**: [Semester 3(A)]
